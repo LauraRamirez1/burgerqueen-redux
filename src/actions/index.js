@@ -1,5 +1,5 @@
-import addProduct from './addProduct';
+import firstName from './Client';
 
 export default {
-  addProduct
+  firstName
 };

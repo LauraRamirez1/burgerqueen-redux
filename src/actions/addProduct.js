@@ -1,8 +1,8 @@
 import { ADD_PRODUCT } from "./actionTypes";
 
-export const addProductList = dispatch => (item) => {
+export const addProductList = dispatch => (event) => {
     dispatch({
       type: ADD_PRODUCT,
-      item,
+      payload: event
     })
   }

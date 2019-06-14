@@ -1,102 +1,116 @@
-{
-    "breakfast": [
-      {
-        "id": 1,
-        "name": "Sandwich de jamón y queso",
-        "price": 1000
-      },
-      {
-        "id": 2,
-        "name": "Café americano",
-        "price": 500
-      },
-      {
-        "id": 3,
-        "name": "Café con leche",
-        "price": 700
-      },
-      {
-        "id": 4,
-        "name": "Jugo natural",
-        "price": 700
-      }
-    ],
+    {
+      "desayuno": [
+        {
+          "id": 1,
+          "clasificacion": "bebidas",
+          "name": "Café Americano",
+          "precio": "500"
+        },
+        {
+          "id": 2,
+          "clasificacion": "bebidas",
+          "name": "Café con leche",
+          "precio": "700"   
+        },
+        {
+          "id": 3,
+          "clasificacion": "bebidas",
+          "name": "Jugo natural",
+          "precio": "700"
+        },
+        {
+          "id": 4,
+          "clasificacion": "sandwich",
+          "name": "Sandwich Jamón Queso",
+          "precio": "1000"
+        }
+      ],
+      
+      "almuerzo":[
+        {
+          "id": 5,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa simple Res",
+          "precio": "1500"
+        },
+        {
+          "id": 6,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa simple pollo",
+          "precio": "1500"
+        },
+        {
+          "id": 7,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa simple vegetariana",
+          "precio": "1500"
+        },
+        {
+          "id": 8,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa doble Res",
+          "precio": "2500"
+        },
+        {
+          "id": 9,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa doble pollo",
+          "precio": "2500"
+        },
+        {
+          "id": 10,
+          "clasificacion": "hamburguesa",
+          "name": "Hamburguesa doble vegetariana",
+          "precio": "2500"
+        },
+        {
+          "id": 11,
+          "clasificacion": "agregado",
+          "name": "Agregado Queso",
+          "precio": "500"
+        },
+        {
+          "id": 12,
+          "clasificacion": "agregado",
+          "name": "Agregado Huevo",
+          "precio": "500"
+        },
+        {
+          "id": 13,
+          "clasificacion": "acompañamiento",
+          "name": "Papas Fritas",
+          "precio": "500"
+        },
+        {
+          "id": 14,
+          "clasificacion": "acompañamiento",
+          "name": "Onion Rings",
+          "precio": "500"
+        },
+        {
+          "id": 15,
+          "clasificacion": "bebidas",
+          "name": "Agua 500 ml",
+          "precio": "500"
+        },
+        {
+          "id": 16,
+          "clasificacion": "bebidas",
+          "name": "Gaseosa 500 ml",
+          "precio": "700"
+        },
+        {
+          "id": 17,
+          "clasificacion": "bebidas",
+          "name": "Agua 750 ml",
+          "precio": "500"
+        },
+        {
+          "id": 18,
+          "clasificacion": "bebidas",
+          "name": "Gaseosa 750 ml",
+          "precio": "700"
+        }
+      ]
+    }
     
-    "lunchFood":[
-      {
-        "id":5,
-        "name": "H. Simple de Pollo",
-        "price": 1500
-      },
-      {
-        "id":6,
-        "name": "H. Doble de Pollo",
-        "price": 2500
-      },
-      {
-        "id":7,
-        "name": "H. Simple de Res",
-        "price": 1500
-      },
-      {
-        "id":8,
-        "name": "H. Doble de Res",
-        "price": 2500
-      },
-      {
-        "id":9,
-        "name": "H. Simple Veggie",
-        "price": 1500
-      },
-      {
-        "id":10,
-        "name": "H. Doble Veggie",
-        "price": 2500
-      },
-      {
-        "id":11,
-        "name": "+Queso",
-        "price": 500
-      },
-      {
-        "id":12,
-        "name": "+Huevo",
-        "price": 500
-      }
-    ],
-    "lunchExtras":[
-      {
-        "id":13,
-        "name": "Papas fritas",
-        "price": 500
-      },
-      {
-        "id":14,
-        "name": "Aros de cebolla",
-        "price": 500
-      }
-    ],
-    "lunchDrinks":[
-      {
-        "id":15,
-        "name": "Agua 500ml",
-        "price": 500
-      },
-      {
-        "id":16,
-        "name": "Agua 700ml",
-        "price": 800
-      },
-      {
-        "id":17,
-        "name": "Gaseosa 500ml",
-        "price": 700
-      },
-      {
-        "id":18,
-        "name": "Gaseosa 750ml",
-        "price": 1000
-      }
-    ]
-
-  }
