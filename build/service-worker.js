@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LauraRamirez1/burgerqueen-redux/precache-manifest.6ae7fbd2e89807bfa24e9bf85adf1fbc.js"
+  "/LauraRamirez1/burgerqueen-redux/precache-manifest.2ab139d6ded8f9cc9e139a76fb4a7c99.js"
 );
 
 self.addEventListener('message', (event) => {
