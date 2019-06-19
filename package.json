@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^6.2.0",
     "gh-pages": "^2.0.1",
     "netlify-cli": "^2.11.22",
     "react": "^16.8.6",
@@ -37,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://lauraramirez1.github.io/burgerqueen-redux/"
+  "homepage": "https://github.com/LauraRamirez1/burgerqueen-redux/"
 }

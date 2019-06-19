@@ -8,7 +8,7 @@ import almuerzo from './components/Almuerzo';
 
 function App() {
       return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Route path ="/" component={Navigation}/>
       <Route path ="/kitchen" component={Kitchen}/>
       <Route path ="/waiter" component={Waiter}/>
