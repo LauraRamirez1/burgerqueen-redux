@@ -8,12 +8,12 @@ import almuerzo from './components/Almuerzo';
 
 function App() {
       return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <Route path ="/" component={Navigation}/>
-      <Route path ="/kitchen" component={Kitchen}/>
-      <Route path ="/waiter" component={Waiter}/>
-      <Route path ="/desayuno" component={desayuno}/>
-      <Route path ="/almuerzo" component={almuerzo}/>
+      <BrowserRouter>
+      <Route path ={process.env.PUBLIC_URL + "/"}  component={Navigation}/>
+      <Route path ={process.env.PUBLIC_URL + "/kitchen"} component={Kitchen}/>
+      <Route path ={process.env.PUBLIC_URL + "/waiter"}  component={Waiter}/>
+      <Route path ={process.env.PUBLIC_URL + "/desayuno"}  component={desayuno}/>
+      <Route path ={process.env.PUBLIC_URL + "/almuerzo"}  component={almuerzo}/>
       </BrowserRouter>
     );
   }
