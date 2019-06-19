@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d44b0dc1f692f85d03df7f70ee74aca",
+    "revision": "19c5e0fedcaeea21025fdb3370979e3f",
     "url": "/LauraRamirez1/burgerqueen-redux/index.html"
   },
   {
-    "revision": "b3026983a23caecf0216",
+    "revision": "35cf12a0df908cf09c0c",
     "url": "/LauraRamirez1/burgerqueen-redux/static/css/main.9ec4cf71.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LauraRamirez1/burgerqueen-redux/static/js/2.ff3dd737.chunk.js"
   },
   {
-    "revision": "b3026983a23caecf0216",
-    "url": "/LauraRamirez1/burgerqueen-redux/static/js/main.36a8b4a0.chunk.js"
+    "revision": "35cf12a0df908cf09c0c",
+    "url": "/LauraRamirez1/burgerqueen-redux/static/js/main.a196061a.chunk.js"
   },
   {
     "revision": "86a4050e535fa4aa2166",
