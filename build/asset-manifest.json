@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/burgerqueen-redux/static/css/main.9ec4cf71.chunk.css",
+    "main.js": "/burgerqueen-redux/static/js/main.860cfb26.chunk.js",
+    "main.js.map": "/burgerqueen-redux/static/js/main.860cfb26.chunk.js.map",
+    "runtime~main.js": "/burgerqueen-redux/static/js/runtime~main.5a434e32.js",
+    "runtime~main.js.map": "/burgerqueen-redux/static/js/runtime~main.5a434e32.js.map",
+    "static/js/2.ff3dd737.chunk.js": "/burgerqueen-redux/static/js/2.ff3dd737.chunk.js",
+    "static/js/2.ff3dd737.chunk.js.map": "/burgerqueen-redux/static/js/2.ff3dd737.chunk.js.map",
+    "index.html": "/burgerqueen-redux/index.html",
+    "precache-manifest.8ff29b3cfaa951f064ccbdf74ae9dd66.js": "/burgerqueen-redux/precache-manifest.8ff29b3cfaa951f064ccbdf74ae9dd66.js",
+    "service-worker.js": "/burgerqueen-redux/service-worker.js",
+    "static/css/main.9ec4cf71.chunk.css.map": "/burgerqueen-redux/static/css/main.9ec4cf71.chunk.css.map",
+    "static/media/burguerQueen.png": "/burgerqueen-redux/static/media/burguerQueen.29029846.png"
+  }
+}

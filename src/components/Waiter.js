@@ -11,12 +11,11 @@ function  Waiter (props){
   return (
   
   <div className="container">
-{/*    
-    {<Client/>
+ 
+    {/* <Client/>
     <div id = "dinerName"> 
-   {this.props.client.client} }
-
-   </div> */}
+   {this.props.client.client}  */}
+   
         <div className="row">
             <div className="col">
                 <button  type="button" class="btn btn-danger" onClick={()=>{history.push("./desayuno")}} >DESAYUNO</button>
@@ -30,13 +29,14 @@ function  Waiter (props){
   );
 }
 
-// const mapStateToProps = (state)=> {
-//     return{
-//         ...state
+// const mapStateToProps = (state)=>{
+//     return {
+//       ...state
 //     };
-// }
+//   }
 
-export default withRouter (Waiter);
+// export default withRouter(connect ( mapStateToProps )(Waiter));
+   
 
 // import React, {Component} from 'react';
 // import {desayuno,almuerzo} from './../menu.json'
@@ -67,5 +67,4 @@ export default withRouter (Waiter);
 //         )
 //     }
 // }
-
-// export default Waiter;
+export default withRouter(Waiter);
