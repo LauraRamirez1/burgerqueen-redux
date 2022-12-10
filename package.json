@@ -4,7 +4,7 @@
   "homepage": "https://github.com/LauraRamirez1/burgerqueen-redux/",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gh-pages": "^2.0.1",
     "netlify-cli": "^2.11.22",
     "react": "^16.8.6",
